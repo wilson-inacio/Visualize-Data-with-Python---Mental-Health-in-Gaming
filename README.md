@@ -45,3 +45,41 @@ Some key terms about the data:
 - **GAD Score:** Generalized Anxiety Disorder 7-item (GAD-7) scale, a brief, seven-question self-report questionnaire used to screen for and assess the severity of Generalized Anxiety Disorder
 - **SWL Score:** SWL (Satisfaction with Life) score is the total score from the Satisfaction with Life Scale (SWLS), a 5-item questionnaire measuring global quality of life
 - **SINS Score:** Single-Item Narcissism Scale (SINS), a research tool asking "To what extent do you agree with this statement: 'I am a narcissist'?"
+
+#### Index
+#####Visualize Data with Python
+#####Gaming habits and psychological well-being
+1. **Importing the Data**
+2. **Cleaning the Data**
+3. **Creating Visualizations**
+##### 1. Demographic data:
+1. Gender disparity in gaming
+2. Education in gaming
+3. Occupation in gaming
+4. Age in gaming
+
+##### 2. Basis data:
+1. Platform used
+2. Playstyle (Online vs. Offline)
+3. Players with earnings
+   1. Correlating with Playstyle
+
+##### 3. Score analysis:
+1. General scores
+2. by age
+3. by gender
+4. by education
+5. Online vs. Offline
+
+##### 4. Hours played analysis:
+1. Hours played:
+   1. Education
+   2. Scores
+       1. Under 50 hours of play per week
+       2. Over 50 hours of play per week
+2. Hours played and additional hours:
+   1. Education
+   2. Scores
+       1. Under 50 hours of play per week
+       2. Over 50 hours of play per week
+4. **Findings**
