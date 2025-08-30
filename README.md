@@ -1,5 +1,5 @@
 # Visualize Data with Python
-"Visualize Data with Python" codecademy Portfolio Project
+"Visualize Data with Python" Codecademy Portfolio Project
 #### About: 
 In this project I'll be creating a portfolio project that uses visualizations to communicate insights about a dataset.
 
@@ -17,7 +17,7 @@ For my project, I decided to go with a dataset that correlates gaming habits wit
 **Contributors to Dataset:** [Marian Sauter](https://osf.io/6v3jm/) [Dejan Draschkow](https://osf.io/cqjpn/)
 
 #### About the Dataset:
-Constituted of 13464 users (12699 male, 713 female, 52 other) between 18 and 63 years. Participants resided in 109 different countries with most of the participants coming from the USA (4569), Germany (1413), the UK (1032) and Canada (994).
+Constituted of 13464 users (12699 male, 713 female, 52 other) between 18 and 63 years. Participants resided in 109 different countries, with most of the participants coming from the USA (4569), Germany (1413), the UK (1032) and Canada (994).
 
 ##### Background
 - Age and Gender
@@ -53,12 +53,12 @@ Some key terms about the data:
 2. **Cleaning the Data**
 3. **Creating Visualizations**
 ##### 1. Demographic data:
-1. Gender disparity in gaming
-2. Education in gaming
-3. Occupation in gaming
-4. Age in gaming
+1. Gender disparity in Gaming
+2. Education in Gaming
+3. Occupation in Gaming
+4. Age in Gaming
 
-##### 2. Basis data:
+##### 2. Basic data:
 1. Platform used
 2. Playstyle (Online vs. Offline)
 3. Players with earnings
