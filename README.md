@@ -53,33 +53,33 @@ Some key terms about the data:
 2. **Cleaning the Data**
 3. **Creating Visualizations**
 ##### 1. Demographic data:
-1. Gender disparity in Gaming
-2. Education in Gaming
-3. Occupation in Gaming
-4. Age in Gaming
+      1. Gender disparity in Gaming
+      2. Education in Gaming
+      3. Occupation in Gaming
+      4. Age in Gaming
 
 ##### 2. Basic data:
-1. Platform used
-2. Playstyle (Online vs. Offline)
-3. Players with earnings
-   1. Correlating with Playstyle
+      1. Platform used
+      2. Playstyle (Online vs. Offline)
+      3. Players with earnings
+         1. Correlating with Playstyle
 
 ##### 3. Score analysis:
-1. General scores
-2. by age
-3. by gender
-4. by education
-5. Online vs. Offline
+      1. General scores
+      2. by age
+      3. by gender
+      4. by education
+      5. Online vs. Offline
 
 ##### 4. Hours played analysis:
-1. Hours played:
-   1. Education
-   2. Scores
-       1. Under 50 hours of play per week
-       2. Over 50 hours of play per week
-2. Hours played and additional hours:
-   1. Education
-   2. Scores
-       1. Under 50 hours of play per week
-       2. Over 50 hours of play per week
+      1. Hours played:
+         1. Education
+         2. Scores
+             1. Under 50 hours of play per week
+             2. Over 50 hours of play per week
+      2. Hours played and additional hours:
+         1. Education
+         2. Scores
+             1. Under 50 hours of play per week
+             2. Over 50 hours of play per week
 4. **Findings**
