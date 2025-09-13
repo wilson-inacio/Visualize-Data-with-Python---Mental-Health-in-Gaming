@@ -47,8 +47,8 @@ Some key terms about the data:
 - **SINS Score:** Single-Item Narcissism Scale (SINS), a research tool asking "To what extent do you agree with this statement: 'I am a narcissist'?"
 
 #### Index
-#####Visualize Data with Python
-#####Gaming habits and psychological well-being
+##### Visualize Data with Python
+##### Gaming habits and psychological well-being
 1. **Importing the Data**
 2. **Cleaning the Data**
 3. **Creating Visualizations**
