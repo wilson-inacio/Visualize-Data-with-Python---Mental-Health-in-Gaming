@@ -10,10 +10,10 @@ In this project I'll be creating a portfolio project that uses visualizations to
 - Report key findings
 
 #### Dataset:
-For my project, I decided to go with a dataset that correlates gaming habits with mental wellbeing.
-**Data name:** Gaming Habits and Psychological Well-being: An international dataset about the Anxiety, Life Satisfaction and Social Phobia of over 13000 gamers
-**Webpage:** [Study Page](https://osf.io/vnbxk/)
-**Questionnaire:** [Survey](https://osf.io/vyr5f)
+For my project, I decided to go with a dataset that correlates gaming habits with mental wellbeing.<br>
+**Data name:** Gaming Habits and Psychological Well-being: An international dataset about the Anxiety, Life Satisfaction and Social Phobia of over 13000 gamers<br>
+**Webpage:** [Study Page](https://osf.io/vnbxk/)<br>
+**Questionnaire:** [Survey](https://osf.io/vyr5f)<br>
 **Contributors to Dataset:** [Marian Sauter](https://osf.io/6v3jm/) [Dejan Draschkow](https://osf.io/cqjpn/)
 
 #### About the Dataset:
